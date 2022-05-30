@@ -1,5 +1,9 @@
 # E-tracker
 
+## About the application
+
+A employee tracker application created using Inquirer, Node.js, MySQL. The application is used by the user in the command-line to manage a companys employee database.
+
 ## User Story
 
 AS A business owner
